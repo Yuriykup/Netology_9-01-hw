@@ -30,6 +30,7 @@
 
 #### 
 1. Скриншот схемы в Cisco packet Tracer.
+
 ![Скриншот-1](https://github.com/Yuriykup/Netology_9-01-hw/blob/main/img/img1.png)
 
 2. Скриншот настроек маршрутизаторов.
@@ -49,17 +50,20 @@
 
 #### 
 1. Скриншот настроенных сервисов Keepalive на двух идентичных виртуальных машинах с IP адресами 192.168.100.184 (Master) и 192.168.100.114 (Backup).
+
 ![Скриншот-3](https://github.com/Yuriykup/Netology_9-01-hw/blob/main/img/img3.png)
 
 2. Скриншот доступного Web-сервера на "плавающем" IP адресе 192.168.100.15.
+
 ![Скриншот-4](https://github.com/Yuriykup/Netology_9-01-hw/blob/main/img/img4.png)
 
 3. Скриншот переключение настроеного Bash-скрипта "плавающего" IP адреса 192.168.100.15 на Backup server Keepalive при отключении Nginx сервиса (сервера).
+
 ![Скриншот-5](https://github.com/Yuriykup/Netology_9-01-hw/blob/main/img/img6.png)
 
 
 - Файл конфигурации [keepalived.conf](keepalived.conf).
-- Файл скрипта [доступность порта](check_nginx.sh)
+- Файл скрипта [доступность порта](check_nginx.sh).
 ------
 
 ### Правила приема работы
